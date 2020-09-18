@@ -1,0 +1,197 @@
+[
+  {
+    "levelInt": 1,
+    "items": [
+      {
+        "state": "Black",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "state": "Black",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "state": "Black",
+        "row": 3,
+        "col": 3
+      },
+      {
+        "state": "White",
+        "row": 3,
+        "col": 4
+      }
+    ]
+  },
+  {
+    "levelInt": 2,
+    "items": [
+      {
+        "state": "Black",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "state": "Black",
+        "row": 1,
+        "col": 3
+      },
+      {
+        "state": "Black",
+        "row": 5,
+        "col": 2
+      },
+      {
+        "state": "White",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "state": "White",
+        "row": 6,
+        "col": 6
+      }
+    ]
+  },
+  {
+    "levelInt": 3,
+    "items": [
+      {
+        "state": "White",
+        "row": 6,
+        "col": 1
+      },
+      {
+        "state": "White",
+        "row": 6,
+        "col": 2
+      },
+      {
+        "state": "Black",
+        "row": 6,
+        "col": 3
+      },
+      {
+        "state": "White",
+        "row": 5,
+        "col": 0
+      },
+      {
+        "state": "Black",
+        "row": 5,
+        "col": 1
+      },
+      {
+        "state": "Black",
+        "row": 5,
+        "col": 2
+      },
+      {
+        "state": "Black",
+        "row": 5,
+        "col": 3
+      },
+      {
+        "state": "White",
+        "row": 5,
+        "col": 4
+      },
+      {
+        "state": "White",
+        "row": 4,
+        "col": 1
+      },
+      {
+        "state": "Black",
+        "row": 4,
+        "col": 2
+      },
+      {
+        "state": "Black",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "state": "White",
+        "row": 4,
+        "col": 4
+      },
+      {
+        "state": "White",
+        "row": 3,
+        "col": 1
+      },
+      {
+        "state": "Black",
+        "row": 3,
+        "col": 3
+      },
+      {
+        "state": "Black",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "state": "White",
+        "row": 3,
+        "col": 5
+      },
+      {
+        "state": "White",
+        "row": 2,
+        "col": 1
+      },
+      {
+        "state": "Black",
+        "row": 2,
+        "col": 2
+      },
+      {
+        "state": "Black",
+        "row": 2,
+        "col": 3
+      },
+      {
+        "state": "White",
+        "row": 2,
+        "col": 4
+      },
+      {
+        "state": "White",
+        "row": 1,
+        "col": 2
+      },
+      {
+        "state": "White",
+        "row": 1,
+        "col": 3
+      }
+    ]
+  },
+  {
+    "levelInt": 4,
+    "items": [
+      {
+        "state": "Black",
+        "row": 4,
+        "col": 3
+      },
+      {
+        "state": "White",
+        "row": 3,
+        "col": 3
+      },
+      {
+        "state": "Black",
+        "row": 3,
+        "col": 4
+      },
+      {
+        "state": "Black",
+        "row": 2,
+        "col": 3
+      }
+    ]
+  }
+]
